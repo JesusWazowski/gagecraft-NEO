@@ -1,109 +1,90 @@
-name = "index.toml"
 hash-format = "sha256"
 
 [[files]]
 file = "mods/Vanilla Progression Wilderness Bound 1.0.0.jar"
 hash = "0c132335f1e3b50ff3abcd27925c6f19a170590f1f809daf0b8fafb4f235e1bd"
-side = "both"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "174625cfd3f201e2864edd08a0e195683ae12bc094d8448c44186717d5ead638"
 metafile = true
-side = "server"
 
 [[files]]
 file = "mods/distant-horizons-seedgen.pw.toml"
 hash = "984a51bf8a0aa38aa3a96c9307fdf662fb5d1211d46ac384a632f9956e0fc258"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "1bcd8fa2d0c2c3390361736420236c2a5331002ae36bb5cba5a062b8708b5ee9"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "aa19aaf146fb03f895583147e1906b950c9acc2c31a16110d3764401a65a79e1"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
 metafile = true
-side = "both"
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "c981452e48f756282f7f21dc5794aedbd8c6649fcad471126711a6e8982d50b8"
 metafile = true
-side = "client"
 
 [[files]]
 file = "mods/vanilla-progression-wilderness-bound-edition.pw.toml"
 hash = "5179c2b74b1219d1bfbab0a1eae902a3156ea19fc6889e556aa82d13583d48ba"
 metafile = true
-side = "both"
