@@ -1,13 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "174625cfd3f201e2864edd08a0e195683ae12bc094d8448c44186717d5ead638"
+file = "mods/Vanilla Progression Wilderness Bound 1.0.0.jar"
+hash = "0c132335f1e3b50ff3abcd27925c6f19a170590f1f809daf0b8fafb4f235e1bd"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+file = "mods/carpet.pw.toml"
+hash = "174625cfd3f201e2864edd08a0e195683ae12bc094d8448c44186717d5ead638"
 metafile = true
 
 [[files]]
@@ -18,11 +22,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "59f646cc54f1287f331e3156612908b5a45804762b09453522044e38f498ec3e"
 metafile = true
 
 [[files]]
@@ -46,8 +45,28 @@ hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1bcd8fa2d0c2c3390361736420236c2a5331002ae36bb5cba5a062b8708b5ee9"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "aa19aaf146fb03f895583147e1906b950c9acc2c31a16110d3764401a65a79e1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
 metafile = true
 
 [[files]]
@@ -58,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c981452e48f756282f7f21dc5794aedbd8c6649fcad471126711a6e8982d50b8"
 metafile = true
 
 [[files]]
