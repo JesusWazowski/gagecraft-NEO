@@ -83,8 +83,3 @@ metafile = true
 file = "mods/tweakeroo.pw.toml"
 hash = "c981452e48f756282f7f21dc5794aedbd8c6649fcad471126711a6e8982d50b8"
 metafile = true
-
-[[files]]
-file = "mods/vanilla-progression-wilderness-bound-edition.pw.toml"
-hash = "5179c2b74b1219d1bfbab0a1eae902a3156ea19fc6889e556aa82d13583d48ba"
-metafile = true
