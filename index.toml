@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "174625cfd3f201e2864edd08a0e195683ae12bc094d8448c44186717d5ead638"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons-seedgen.pw.toml"
+hash = "984a51bf8a0aa38aa3a96c9307fdf662fb5d1211d46ac384a632f9956e0fc258"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "59f646cc54f1287f331e3156612908b5a45804762b09453522044e38f498ec3e"
 metafile = true
@@ -28,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
 metafile = true
 
 [[files]]
