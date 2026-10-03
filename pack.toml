@@ -1,0 +1,13 @@
+name = "Gagecraft NEO"
+author = "JWazowski et al"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b169a2453642b37f67a104837588f9cef412c5d5ffdb38fc62ff5fe825bb6044"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
